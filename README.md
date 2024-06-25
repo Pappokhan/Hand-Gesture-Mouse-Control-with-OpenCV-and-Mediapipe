@@ -1,0 +1,2 @@
+# Hand-Gesture-Mouse-Control-with-OpenCV-and-Mediapipe
+Python script lets you control your mouse using hand gestures captured by a webcam. It uses OpenCV and Mediapipe to track your hand movements and move the cursor. When you bring your thumb and index finger close together, it simulates a mouse click. The script also includes a quick calibration to set the sensitivity based on your hand movements.
